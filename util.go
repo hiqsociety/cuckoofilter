@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"math/rand"
 
-	metro "github.com/dgryski/go-metro"
+	metro "github.com/dgryski/go-xxh3"
 )
 
 // randi returns either i1 or i2 randomly.
